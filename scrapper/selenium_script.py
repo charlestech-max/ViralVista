@@ -136,4 +136,4 @@ try:
         print("No trends found")
 
 finally:
-    driver.quit()
+    driver.quit()
